@@ -4409,8 +4409,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Conditions
   Points: 0
-  Stage1Threshold: 90
-  Stage2Threshold: 330
+  Stage1Threshold: 30
+  Stage2Threshold: 160
   CurrentStage: 0
   HoleScript: {fileID: 1267462877}
   GameUIManager: {fileID: 1777593638}
